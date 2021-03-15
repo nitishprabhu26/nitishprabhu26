@@ -19,16 +19,11 @@ Here are some ideas to get you started:
 -->
 
 ### 📫 How to reach me?
-- ⦿ Check out my [Portfolio](https://nitish-prabhu-kota.netlify.app/) 🌐 <br>
-- ⦿ Shoot Me an [Email](mailto:nitish.prabhu26@gmail.com) 📩 <br>
-- 
-- ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-shankar-013758198/) <a href="https://www.linkedin.com/in/nitishprabhukota/" target="_blank">
-  <img align="left" alt="Nitish Prabhu Kota's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a> <br>
-  
-- ⦿ Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
-- ⦿ Checkout my video on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0t3hU_6ApIhFVxNhBwHxBQ) 🖥 <br>
-- ⦿ View my certifications [here](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing) 📈🔖 <br>
+- Check out my [Portfolio](https://nitish-prabhu-kota.netlify.app/) 🌐 <br>
+- <a href="https://www.linkedin.com/in/nitishprabhukota/" target="_blank"><img align="left" alt="Nitish Prabhu Kota's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> Connect with me on [LinkedIn](https://www.linkedin.com/in/nitishprabhukota/)  <br>
+- Follow me on [Github](https://github.com/RATHOD-SHUBHAM?tab=repositories) 🤪 <br>
+- Checkout my video on [Youtube](https://www.youtube.com/playlist?list=PLe-rtwou_fp0t3hU_6ApIhFVxNhBwHxBQ) 🖥 <br>
+- View my certifications [here](https://drive.google.com/drive/folders/1OEhIJOI8GFr3ySRjrrMsq1XiBK6VyLK5?usp=sharing) 📈🔖 <br>
 
 
 - <a href="https://github.com/nitishprabhu26" target="_blank">
