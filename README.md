@@ -15,7 +15,8 @@ Software Engineer with 3+ years of professional Full-Stack Web Development exper
 <a href="https://github.com/nitishprabhu26">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishprabhu26&show_icons=true&theme=light&line_height=27" alt="Nitish Prabhu Kota's Github stats"/>
 </a>
-<a href="https://github.com/iampawan">
+<br/>
+<a href="https://github.com/nitishprabhu26">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishprabhu26&theme=light&hide_langs_below=1" />
 </a>
 <br/>
