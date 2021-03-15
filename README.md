@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishprabhu26&label=Views&color=blue&style=plastic" alt="Nitish Prabhu Kota - Github Profile views" /> </p>
 
-### Hi there 👋
+### Hey There! I'm [Nitish Prabhu Kota](https://nitish-prabhu-kota.netlify.app/) 👋
 
 <!--
 **nitishprabhu26/nitishprabhu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 How to reach me?
+  ⦿ Check out my [Portfolio](https://nitish-prabhu-kota.netlify.app/) 🌐 <br>
 
 <a href="https://www.linkedin.com/in/nitishprabhukota/" target="_blank">
   <img align="left" alt="Nitish Prabhu Kota's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
