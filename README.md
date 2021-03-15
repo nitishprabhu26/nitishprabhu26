@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me?
 - ⦿ Check out my [Portfolio](https://nitish-prabhu-kota.netlify.app/) 🌐 <br>
 
-<a href="https://www.linkedin.com/in/nitishprabhukota/" target="_blank">
+- <a href="https://www.linkedin.com/in/nitishprabhukota/" target="_blank">
   <img align="left" alt="Nitish Prabhu Kota's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/nitishprabhu26" target="_blank">
