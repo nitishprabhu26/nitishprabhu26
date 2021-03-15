@@ -2,23 +2,22 @@
 
 ### Hey There! I'm [Nitish Prabhu Kota](https://nitish-prabhu-kota.netlify.app/) 👋
 Software Engineer with 3+ years of professional Full-Stack Web Development experience. Strong technical skills in designing, developing, testing, debugging, and maintaining complex websites.
+Actively looking for Full-Stack Web Developer/Cloud Computing full time opportunities starting from May 2021.
 
-- 🎓 Graduate Student MS in Computer Science at The University of Texas at Arlington.
 - 🔭 Former Senior Software Engineer at Infosys Limited.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
+- 🎓 MS in Computer Science at The University of Texas at Arlington.
+- 🌱 Keep Learning, Keep Growing. 
+- 👯 I’m looking to collaborate on Web Developement projects.
+- 💬 Ask me about Web🕸Development ... Application📲Development ... Software Development🤩... 📑 DataBase 📦 ... ☁️Cloud🌨Computing ...
+- 😄 Pronouns: He/Him/His.
+- 
+<a href="https://github.com/nitishprabhu26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishprabhu26&theme=light&hide_langs_below=1" />
+</a>
 <a href="https://github.com/nitishprabhu26">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishprabhu26&show_icons=true&theme=light&line_height=27" alt="Nitish Prabhu Kota's Github stats"/>
 </a>
 <br/>
-<a href="https://github.com/nitishprabhu26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishprabhu26&theme=light&hide_langs_below=1" />
-</a>
 <br/>
 
 ### 📫 How to reach me?
