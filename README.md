@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://github.com/nitishprabhu26">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishprabhu26&show_icons=true&theme=light&line_height=27" alt="Nitish Prabhu Kota's Github stats"/>
+</a>
+<br/>
+
 ### 📫 How to reach me?
 [Nitish - Portfolio](https://nitish-prabhu-kota.netlify.app/) 🌐 
 <a href="https://www.linkedin.com/in/nitishprabhukota/" target="_blank"><img align="left" alt="Nitish Prabhu Kota's Linkdein" width="22px"                          src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -32,8 +37,5 @@ Here are some ideas to get you started:
   <img align="left" alt="Nitish Prabhu Kota's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://github.com/nitishprabhu26">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishprabhu26&show_icons=true&theme=light&line_height=27" alt="Nitish Prabhu Kota's Github stats"/>
-</a>
-<br/>
+
 <br/>
