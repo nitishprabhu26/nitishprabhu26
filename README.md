@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/nitishprabhu26" target="_blank">
   <img align="left" alt="Nitish Prabhu Kota's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/nitishprabhu26" target="_blank">
+<a href="https://www.facebook.com/nitishprabhu26" target="_blank" >
   <img align="left" alt="Nitish Prabhu Kota's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/nitishprabhu26/" target="_blank">
