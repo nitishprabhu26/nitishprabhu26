@@ -6,7 +6,7 @@ Actively looking for Full-Stack Web Developer/Cloud Computing full time opportun
 
 - 🔭 Former Senior Software Engineer at Infosys Limited.
 - 🎓 MS in Computer Science at The University of Texas at Arlington.
-- 🌱 Keep Learning, Keep Growing. 
+- 💻 I really enjoy learning languages and frameworks. Keep Learning, Keep Growing. 
 - 👯 I’m looking to collaborate on Web Developement projects.
 - 💬 Ask me about Web🕸Development ... Application📲Development ... Software Development🤩... 📑 DataBase 📦 ... ☁️Cloud🌨Computing ...
 - 😄 Pronouns: He/Him/His.
@@ -42,6 +42,6 @@ Actively looking for Full-Stack Web Developer/Cloud Computing full time opportun
 <div align="center">
  
 ### If you are interested in my work or if you like to collaborate 👯 or just say hello, feel free to contact me.
-### Show some 🖤 by starring some of the repositories that you like!
+### Check out my Repo for some cool content! Show some ❤️ by starring some of the repositories that you like!
 
 </div>
