@@ -12,7 +12,7 @@ Actively looking for Full-Stack Web Developer/Cloud Computing full time opportun
 - 😄 Pronouns: He/His.
 
 <a href="https://github.com/nitishprabhu26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishprabhu26&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishprabhu26&theme=light&hide_langs_below=1&layout=compact" />
 </a>
 <a href="https://github.com/nitishprabhu26">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishprabhu26&show_icons=true&theme=light&hide=contribs,prs" alt="Nitish Prabhu Kota's Github stats"/>
