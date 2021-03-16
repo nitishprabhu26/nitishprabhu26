@@ -15,11 +15,8 @@ Actively looking for Full-Stack Web Developer/Cloud Computing full time opportun
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishprabhu26&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/nitishprabhu26">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishprabhu26&show_icons=true&theme=light&line_height=27" alt="Nitish Prabhu Kota's Github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishprabhu26&show_icons=true&theme=light&hide=contribs,prs,issues" alt="Nitish Prabhu Kota's Github stats"/>
 </a>
-<br/>
-<p><img src="https://github-readme-stats.vercel.app/api?username=nitishprabhu26&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
-
 <br/>
 <br/>
 
