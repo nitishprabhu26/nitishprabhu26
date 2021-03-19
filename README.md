@@ -41,7 +41,6 @@ Software Engineer with 3+ years of professional Full-Stack Web Development exper
 <br/>
 <br />
 
-
 <div align="center">
  
 ### If you are interested in my work or if you like to collaborate 👯 or just say hello, feel free to contact me.
