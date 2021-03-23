@@ -4,7 +4,7 @@
 Software Engineer with 3+ years of professional Full-Stack Web Development experience. Strong technical skills in designing, developing, testing, debugging, and maintaining complex websites.
 <br/>
 ⦿ Actively looking for Full-Stack Web Developer/Cloud Computing full time opportunities starting from May 2021.
-#### Frontend, backend, and everything in between.
+**Frontend, backend, and everything in between.**
 
 - 🔭 Former Senior Software Engineer at Infosys Limited.
 - 🎓 MS in Computer Science at The University of Texas at Arlington.
