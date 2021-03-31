@@ -40,7 +40,7 @@ Software Engineer with 3+ years of professional Full-Stack Web Development exper
 </a>
 
 <br/>
-<br />
+<br/>
 
 <div align="center">
  
