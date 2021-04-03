@@ -11,7 +11,7 @@ Software Engineer with 3+ years of professional Full-Stack Web Development exper
 - 💻 I really enjoy learning languages and frameworks. Keep Learning, Keep Growing. 
 - 🤝🏼 I’m looking to collaborate on Web Developement projects.
 - 💬 Ask me about Web Development... Application Development... Software Development... Databases... Cloud Computing...
-- 😄 Pronouns: He/His/Him.
+- 😄 Pronouns: He/His/Him
 
 <a href="https://github.com/nitishprabhu26">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishprabhu26&theme=light&hide_langs_below=1&layout=compact&langs_count=8" />
