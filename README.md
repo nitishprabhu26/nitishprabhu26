@@ -38,7 +38,6 @@ Software Engineer with 3+ years of professional Full-Stack Web Development exper
 <a href="https://twitter.com/NitishPrabhuK" target="_blank">
   <img align="left" alt="Nitish Prabhu Kota's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <br/>
 <br/>
 
